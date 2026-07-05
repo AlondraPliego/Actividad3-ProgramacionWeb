@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrusel Básico</title>
+    <link rel="stylesheet" href="css/carrusel.css">
+</head>
+<body>
+    <div class="carrusel" id="carrusel1"></div>
+    <div class="carrusel" id="carrusel2"></div>
+    <script src="js/carrusel.js"></script>
+    <script>
+        crearCarrusel('carrusel1',
+            ['img/oc1.jpg', 'img/oc2.jpg', 'img/oc3.jpg','img/oc4.jpg','img/oc5.jpg','img/oc6.jpg', ],
+            'img/fondo1.jpg'
+        );
+        crearCarrusel('carrusel2',
+            ['img/ca1.jpg', 'img/ca2.jpg', 'img/ca3.jpg', 'img/ca4.jpg', 'img/ca5.jpg', 'img/ca6.jpg', 'img/ca7.jpg', 'img/ca8.jpg', ],
+            'img/fondo2.jpg'
+        );
+    </script>
+</body>
+</html>
