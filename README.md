@@ -40,7 +40,7 @@ Para esta muestra de aplicación, se han creado dos carruseles con un diferente 
 ![C2Imagen1](img/CARP3.png)
 ![C2Imagen2](img/CARP4.png)
 ## Video de prueba de funcionamiento
-[![Ver video](https://img.youtube.com/vi/EdjzOjQbnAo/0.jpg)](https://youtu.be/EdjzOjQbnAo)
+[![Ver video](https://img.youtube.com/vi/30I9Gj4RUPU/0.jpg)](https://youtu.be/30I9Gj4RUPU)
 ## Links
 ### GitHub Pages
 - https://alondrapliego.github.io/Actividad3-ProgramacionWeb/
